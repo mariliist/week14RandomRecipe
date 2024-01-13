@@ -1,0 +1,38 @@
+*{ 
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-color: rgb(251, 173, 29);
+    color: rgb(249, 242, 235);
+}
+
+.container {
+    width: 75%;
+    margin: auto;
+    text-align: center;
+}
+
+img{
+    width: 300px;
+    border-radius: 20px;
+}
+
+h2{
+margin: 2rem;
+color: aliceblue;
+
+}
+
+p{
+margin: 2rem;
+}
+
+ul{
+    margin: 2rem;
+    list-style: none;
+    padding-inline-start: 0;
+}
+
+footer {
+    margin-bottom: 2rem;
+}
